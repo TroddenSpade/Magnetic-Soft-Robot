@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0563a7dcc151b1243a6a97ec38217e90, type: 3}
+  m_Name: Magnetic Field Scriptable Object
+  m_EditorClassIdentifier: 
+  isFieldOn: 1
+  fieldMagnitude: 9.8
+  magneticFieldOrientation: {x: 0.5396939, y: 0.47395164, z: 0.6957727}
+  magneticFieldUp: {x: -0.8026545, y: 0.5389676, z: 0.2554612}
+  magneticFieldRight: {x: 0.2539231, y: 0.6963362, z: -0.6712967}
